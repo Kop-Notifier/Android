@@ -13,4 +13,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Kop_Notifier"
-include ':app'
+include ':Presentation'
+include ':Domain'
+include ':Data'
