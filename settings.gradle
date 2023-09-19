@@ -13,4 +13,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Android_Part"
-include ':app'
+include ':presentation'
+include ':data'
+include ':domain'
